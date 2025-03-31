@@ -1,0 +1,31 @@
+items:
+  - name: apple
+    price: 0.89
+    type: fruit
+  - name: banana
+    price: 0.39
+    type: fruit
+  - name: carrot
+    price: 0.23
+    type: vegetable
+  - name: date
+    price: 0.19
+    type: fruit
+  - name: eggplant
+    price: 0.79
+    type: vegetable
+  - name: printer
+    price: 59.99
+    type: electronics
+  - name: monitor
+    price: 99.99
+    type: electronics
+  - name: dog bone
+    price: 1.99
+    type: pet supplies
+  - name: catnip
+    price: 0.99
+    type: pet supplies
+  - name: dog food
+    price: 4.99
+    type: pet supplies
