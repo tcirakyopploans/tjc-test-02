@@ -1,3 +1,7 @@
 locals {
-  data = yamldecode(file("my-data.yaml"))
+  my output = "this"
+}
+
+output "my output" {
+  value = local.my output
 }
